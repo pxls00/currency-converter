@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss/base";
+.container {
+  position: relative;
+  max-width: 1230px;
+  width: 100%;
+  min-width: 320px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
